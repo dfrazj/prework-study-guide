@@ -1,8 +1,6 @@
-# <Prework Study Guide Webpage>
+# Prework Study Guide Webpage
 
 ## Description
-
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 My motivation for building this study guide webpage was to get a great start to this Full Stack Web Development online course. I built this study guide to help me prepare for the course. I learned the basics of HTML, CSS, JavaScript, and Git.
 
@@ -21,4 +19,3 @@ N/A
 ## License
 
 MIT License
-
